@@ -1,3 +1,5 @@
++.google.com
++.appstorrent.ru
 +.packal.org
 +.poe.com
 +.notion.so

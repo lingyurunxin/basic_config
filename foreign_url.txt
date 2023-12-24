@@ -6160,11 +6160,7 @@
 +.zyzc9.com
 +.zzcartoon.com
 +.apple.com
-+.aliyun.com
-+.baidu.com
 +.chinaso.com
-+.chinaz.com
-+.haosou.com
 +.ip.cn
 +.jike.com
 +.gov.cn
@@ -6175,8 +6171,6 @@
 +.so.com
 +.soso.com
 +.uluai.com.cn
-+.weibo.com
-+.yahoo.cn
 +.youdao.com
 +.zhongsou.com
 +.ime.baidu.jp

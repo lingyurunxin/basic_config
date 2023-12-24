@@ -6164,7 +6164,6 @@
 +.ip.cn
 +.jike.com
 +.gov.cn
-+.qq.com
 +.sina.cn
 +.sina.com.cn
 +.sogou.com

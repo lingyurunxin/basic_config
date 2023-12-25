@@ -6163,13 +6163,11 @@
 +.chinaso.com
 +.ip.cn
 +.jike.com
-+.gov.cn
 +.sina.cn
 +.sina.com.cn
 +.sogou.com
 +.so.com
 +.soso.com
 +.uluai.com.cn
-+.youdao.com
 +.zhongsou.com
 +.ime.baidu.jp
